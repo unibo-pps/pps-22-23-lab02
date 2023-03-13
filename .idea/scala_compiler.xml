@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="pps-22-23-lab02,pps-22-23-lab02_3084" />
+  </component>
+</project>
